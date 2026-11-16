@@ -113,6 +113,19 @@ mindset:   "Proof of work over opinions."
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/hk1682/shopify-sample-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk1682&repo=shopify-sample-app&theme=transparent&hide_border=true" alt="shopify-sample-app">
+      </a>
+      <p><sub>🛍️ <b>Shopify embedded app.</b> OAuth install flow, product editing through the Admin API and a theme app extension app embed — built as Weaverse onboarding work.</sub></p>
+      <p>
+        <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Admin%20API-96BF48?style=flat-square&logo=graphql&logoColor=white">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h4>🧰 Also in the toolbox</h4>
       <ul>
         <li><a href="https://github.com/hk1682/furniro"><b>furniro</b></a> — Express + MongoDB REST API with JWT auth and Joi validation</li>
@@ -120,7 +133,7 @@ mindset:   "Proof of work over opinions."
         <li><a href="https://github.com/hk1682/booking_movie_tickets_online"><b>booking_movie_tickets_online</b></a> — PHP cinema booking system</li>
         <li><a href="https://github.com/hk1682/kana-shop"><b>kana-shop</b></a> — static storefront build</li>
       </ul>
-      <p><sub>Plus private work on Python trading automation and Shopify/Hydrogen storefronts.</sub></p>
+      <p><sub>Plus private work on Python trading automation and Shopify / Hydrogen storefronts.</sub></p>
     </td>
   </tr>
 </table>
