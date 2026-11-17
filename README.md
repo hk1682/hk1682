@@ -79,7 +79,7 @@ mindset:   "Proof of work over opinions."
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/hk1682/DeBistro-Restaurant-Management-QR-Ordering-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk1682&repo=DeBistro-Restaurant-Management-QR-Ordering-System&theme=transparent&hide_border=true" alt="DeBistro">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hk1682&repo=DeBistro-Restaurant-Management-QR-Ordering-System&theme=transparent&hide_border=true" alt="DeBistro">
       </a>
       <p><sub>🍽️ <b>Restaurant management &amp; QR ordering platform.</b> Guests scan a table QR and order without an app; staff track orders live. Next.js App Router, TanStack Query &amp; Table, Socket.io realtime, JWT auth, QR generation, shadcn/ui.</sub></p>
       <p>
@@ -90,7 +90,7 @@ mindset:   "Proof of work over opinions."
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/hk1682/lingdo-languages">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk1682&repo=lingdo-languages&theme=transparent&hide_border=true" alt="lingdo-languages">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hk1682&repo=lingdo-languages&theme=transparent&hide_border=true" alt="lingdo-languages">
       </a>
       <p><sub>🗣️ <b>Gamified language-learning SaaS.</b> Lessons, progress tracking and hearts system with a full subscription flow — Next.js, Drizzle ORM on Neon Postgres, Clerk auth, Stripe billing, react-admin dashboard.</sub></p>
       <p>
@@ -103,7 +103,7 @@ mindset:   "Proof of work over opinions."
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/hk1682/pokedex---graphQL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk1682&repo=pokedex---graphQL&theme=transparent&hide_border=true" alt="pokedex---graphQL">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hk1682&repo=pokedex---graphQL&theme=transparent&hide_border=true" alt="pokedex---graphQL">
       </a>
       <p><sub>🔍 <b>GraphQL-powered Pokédex.</b> Typed queries with Apollo Client, server-side routing on React Router v7, Tailwind + shadcn UI, containerized with Docker.</sub></p>
       <p>
@@ -114,7 +114,7 @@ mindset:   "Proof of work over opinions."
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/hk1682/shopify-sample-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hk1682&repo=shopify-sample-app&theme=transparent&hide_border=true" alt="shopify-sample-app">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=hk1682&repo=shopify-sample-app&theme=transparent&hide_border=true" alt="shopify-sample-app">
       </a>
       <p><sub>🛍️ <b>Shopify embedded app.</b> OAuth install flow, product editing through the Admin API and a theme app extension app embed — built as Weaverse onboarding work.</sub></p>
       <p>
@@ -143,12 +143,12 @@ mindset:   "Proof of work over opinions."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hk1682&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=hk1682&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats">
   <img height="170" src="https://streak-stats.demolab.com/?user=hk1682&hide_border=true&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk1682&layout=compact&hide_border=true&theme=transparent&card_width=495&langs_count=8" alt="Top Languages">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hk1682&layout=compact&hide_border=true&theme=transparent&card_width=495&langs_count=8" alt="Top Languages">
 </p>
 
 <p align="center">
